@@ -971,7 +971,7 @@ dependencies:
     md5: 30c394eea0a0830a08108119e95e08d4
   - name: php-phalcon
     version: 5.5.25
-    uri: https://pivotal-buildpacks.s3.amazonaws.com/php/binaries/lucid/php/5.5.25/php-phalcon-5.5.25.tar.gz
+    uri: ./phalcon.so
     cf_stacks:
       - lucid64
     md5: 7f29fc8daaca70c7c24c1dfe49a843fa
